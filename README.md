@@ -13,3 +13,4 @@
 |gain|获得|
 |reward|报酬|
 |issuance|发行|
+|repaying|偿还|
