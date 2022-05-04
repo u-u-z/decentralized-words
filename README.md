@@ -5,9 +5,11 @@
 
 |单词|翻译|
 |---|---|
+|assets|资产|
+|arbitrage|套利|
+|borrow|借、借走|
 |collateral|抵押品|
 |duration|期间|
-|arbitrage|套利|
 |gain|获得|
 |reward|报酬|
 |issuance|发行|
