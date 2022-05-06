@@ -21,3 +21,4 @@
 |strategy|策略|
 |rate|利率|
 |debt|债务|
+|lending|借贷|
