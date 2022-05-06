@@ -20,3 +20,4 @@
 |incentives|奖励措施|
 |strategy|策略|
 |rate|利率|
+|debt|债务|
