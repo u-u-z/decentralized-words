@@ -18,3 +18,5 @@
 |premiums|保费, n.奖金, 奖品, 奖杯|
 |reserves|储备金|
 |incentives|奖励措施|
+|strategy|策略|
+|rate|利率|
