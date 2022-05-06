@@ -15,3 +15,4 @@
 |issuance|发行|
 |repaying|偿还|
 |implement|实施|
+|premiums|保费, n.奖金, 奖品, 奖杯|
