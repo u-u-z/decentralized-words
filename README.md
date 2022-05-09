@@ -9,6 +9,8 @@
 |arbitrage|套利|
 |borrow|借、借走|
 |collateral|抵押品|
+|compensating|补偿|
+|debt|债务|
 |duration|期间|
 |gain|获得|
 |reward|报酬|
@@ -20,5 +22,4 @@
 |incentives|奖励措施|
 |strategy|策略|
 |rate|利率|
-|debt|债务|
 |lending|借贷|
