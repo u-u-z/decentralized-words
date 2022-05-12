@@ -23,3 +23,4 @@
 |strategy|策略|
 |rate|利率|
 |lending|借贷|
+|APR|年利率|
