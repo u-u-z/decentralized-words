@@ -6,6 +6,7 @@
 |单词|翻译|
 |---|---|
 |assets|资产|
+|acquisition|获得物|
 |arbitrage|套利|
 |borrow|借、借走|
 |collateral|抵押品|
