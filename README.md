@@ -27,3 +27,4 @@
 |lending|借贷|
 |APR|年利率|
 |present|当下|
+|efficiency|效率|
