@@ -26,3 +26,4 @@
 |ratio|比率|
 |lending|借贷|
 |APR|年利率|
+|present|当下|
