@@ -1,7 +1,7 @@
 # 📒 A Wordbook for Decentralized Developers
 > Web3, 去中心化开发者的 单词本 
 
-👉 [一些在 PR / REVIEW 中的常见简写、缩写](Abbreviation.md)
+👉 [一些在 PR / REVIEW 中的常见简写、缩写](acronyms.md)
 
 没啥规矩先随便更新一下
 
