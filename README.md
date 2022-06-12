@@ -30,3 +30,4 @@
 |APR|年利率|
 |present|当下|
 |efficiency|效率|
+|sufficient|充足的|
