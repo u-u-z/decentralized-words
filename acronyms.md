@@ -8,3 +8,4 @@
 |NIT|Nitpick|吹毛求疵：不是什么产生巨大影响的大问题、感受后将更加完美的问题|
 |AFK|Away From Keyboard|挂机、不在键盘旁|
 |BRB|be right back|稍后回来|
+|ETA|estimated time of arrival|预计到达时间|
