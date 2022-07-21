@@ -9,3 +9,5 @@
 |AFK|Away From Keyboard|挂机、不在键盘旁|
 |BRB|be right back|稍后回来|
 |ETA|estimated time of arrival|预计到达时间|
+|LGTM|Looks good to me|（同意）|
+|TL;DR|Too Long; Didn't Read|（太长懒得看）|
