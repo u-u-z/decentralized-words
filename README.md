@@ -32,3 +32,4 @@
 |present|当下|
 |efficiency|效率|
 |sufficient|充足的|
+|especially|尤其是|
